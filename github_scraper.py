@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # GitHub API settings
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 headers = {'Authorization': f'token {GITHUB_TOKEN}'}
 base_url = "https://api.github.com"
 
